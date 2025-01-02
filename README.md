@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @savstudios
-- 👀 I’m interested in coding and making games :)
-- 🌱 I’m currently learning Pygame
-- 💞️ I’m looking to collaborate on??
-- 📫 How to reach me discord (sav_rblx0)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i'm polish :)
+- Hey there! I'm sav, I am proficient in HTML/CSS, Luau, Python.
+- I am currently learning C++ and it's graphics API's.
+- You can reach me via my discord (sav_rblx0)
+- Fun fact: I can code.
 
 <!---
 savstudios/savstudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
