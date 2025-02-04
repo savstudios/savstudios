@@ -35,9 +35,6 @@ ___
   <a href="https://github.com/savstudios/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=savstudios" />
   </a>
-  <a href="https://github.com/savstudios/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=savstudios&layout=compact&langs_count=8&card_width=300&hide=c,hpp" />
-  </a>
 </div>
 
 <!---
